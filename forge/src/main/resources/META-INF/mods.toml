@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/hari/HariShop/issues"
+license = "GNU General Public License v3.0"
+
+[[mods]]
+modId = "harishop"
+version = "${version}"
+displayName = "HariShop Market (Forge 1.20.1)"
+authors = "HariShop"
+description = '''Deterministic multi-shop market with server-side transaction validation and Forge 1.20.1 currency compatibility.'''
+logoFile = "assets/harishop/icon.png"
+
+[[dependencies.harishop]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.harishop]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"

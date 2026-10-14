@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "harishop",
+  "version": "1.1.0",
+  "name": "Daily Shop",
+  "description": "",
+  "authors": [
+    "KaptainWutax"
+  ],
+  "contact": {
+    "sources": "https://github.com/hari/HariShop/"
+  },
+  "license": "GNU General Public License v3.0",
+  "icon": "assets/harishop/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "hari.harishop.fabric.HariShopFabricMod"
+    ]
+  },
+  "mixins": [
+    "harishop-common.mixins.json",
+    "harishop-fabric.mixins.json"
+  ],
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.20.1"
+  }
+}

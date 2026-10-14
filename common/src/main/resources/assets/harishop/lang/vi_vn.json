@@ -1,0 +1,10 @@
+{
+    "item.harishop.error": "Vật Phẩm Lỗi",
+    "block.harishop.error": "Khối Lỗi",
+    "block.harishop.hari_shop": "Cửa Hàng Hàng Ngày",
+    "block.harishop.daily_deals": "Mặt Hàng Bán Chạy",
+    "block.harishop.pawn_shop": "Tiệm Cầm Đồ",
+    "block.harishop.night_market": "Chợ Đêm",
+    "itemGroup.harishop.main": "Cửa Hàng Hàng Ngày",
+    "container.hari_shop": "Kho Lưu Trữ"
+}

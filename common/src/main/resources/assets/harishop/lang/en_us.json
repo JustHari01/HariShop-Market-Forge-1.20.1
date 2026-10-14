@@ -1,0 +1,10 @@
+{
+  "item.harishop.error": "Error Item",
+  "block.harishop.error": "Error Block",
+  "block.harishop.hari_shop": "Daily Shop",
+  "block.harishop.daily_deals": "Daily Deals",
+  "block.harishop.pawn_shop": "Pawn Shop",
+  "block.harishop.night_market": "Night Market",
+  "itemGroup.harishop.main": "Daily Shop",
+  "container.hari_shop": "Storage"
+}

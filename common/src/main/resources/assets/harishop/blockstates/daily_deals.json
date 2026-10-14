@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "harishop:block/daily_deals"
+    },
+    "facing=south": {
+      "model": "harishop:block/daily_deals",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "harishop:block/daily_deals",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "harishop:block/daily_deals",
+      "y": 90
+    }
+  }
+}

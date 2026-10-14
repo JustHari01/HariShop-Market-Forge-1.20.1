@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "harishop:block/hari_shop"
+    },
+    "facing=south": {
+      "model": "harishop:block/hari_shop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "harishop:block/hari_shop",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "harishop:block/hari_shop",
+      "y": 90
+    }
+  }
+}

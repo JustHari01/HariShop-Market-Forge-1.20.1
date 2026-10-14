@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "harishop:block/pawn_shop"
+    },
+    "facing=south": {
+      "model": "harishop:block/pawn_shop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "harishop:block/pawn_shop",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "harishop:block/pawn_shop",
+      "y": 90
+    }
+  }
+}

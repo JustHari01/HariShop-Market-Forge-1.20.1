@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "harishop:block/night_market"
+    },
+    "facing=south": {
+      "model": "harishop:block/night_market",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "harishop:block/night_market",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "harishop:block/night_market",
+      "y": 90
+    }
+  }
+}
